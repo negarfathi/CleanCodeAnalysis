@@ -1,0 +1,616 @@
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Esent.Interop.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\stanford-postagger-3.9.2.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.AppContext.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Console.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.IO.Compression.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Threading.Thread.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.ValueTuple.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.Build.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Esent.Interop.pdb
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Esent.Interop.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CopyComplete
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSize.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodName.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodParameters.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSingleResponsibility.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckVariableName.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckElseBlock.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckForBlock.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckIfBlock.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckWhileBlock.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedFor.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedIf.resources
+C:\Users\hamed\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedWhile.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Esent.Interop.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\stanford-postagger-3.9.2.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.AppContext.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Console.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.IO.Compression.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Threading.Thread.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.ValueTuple.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.Build.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Esent.Interop.pdb
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Esent.Interop.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckElseBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckForBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckIfBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodName.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodParameters.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSingleResponsibility.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSize.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedFor.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedIf.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedWhile.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckVariableName.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckWhileBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CopyComplete
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\stanford-postagger-3.9.2.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.AppContext.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Console.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.Compression.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Threading.Thread.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.ValueTuple.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.pdb
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckElseBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckForBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckIfBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodName.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodParameters.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSingleResponsibility.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSize.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedFor.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedIf.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedWhile.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckVariableName.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckWhileBlock.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CopyComplete
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\stanford-postagger-3.9.2.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.AppContext.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Console.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.Compression.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Threading.Thread.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.ValueTuple.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.pdb
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Esent.Interop.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\Microsoft.CodeAnalysis.Workspaces.Desktop.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Collections.Immutable.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Convention.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Hosting.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.Runtime.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\cs\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\de\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\en\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\es\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\fr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\it\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ja\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ko\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pl\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\pt-BR\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\ru\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\tr\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\bin\Debug\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.Form1.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckElseBlock.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckForBlock.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckIfBlock.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodName.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodParameters.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSingleResponsibility.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckMethodSize.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedFor.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedIf.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckNestedWhile.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckVariableName.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.FormCheckWhileBlock.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.Properties.Resources.resources
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.GenerateResource.cache
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.CopyComplete
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\hamed\Desktop\NF\3. دانشگاه علم و صنعت\ترم 3\کامپایلر پیشرفته\پروژه\CleanCode\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
